@@ -23,5 +23,9 @@ git config core.sparseCheckout true
 ```
 git pull origin master
 ```
+
+# Revert vs Reset vs Rebase
+https://stackoverflow.com/questions/39260120/rebase-vs-reset-vs-revert-i-just-want-to-roll-back
+
 # Reference
 https://help.github.com/categories/managing-remotes/
